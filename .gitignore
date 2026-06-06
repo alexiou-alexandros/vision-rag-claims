@@ -30,6 +30,16 @@ models/*.pt
 models/*.bin
 models/*.safetensors
 
+# Vector store
+.chroma/
+
+# Test outputs
+test/*.jpg
+test/*.png
+
 # Logs
 *.log
 logs/
+
+# Videos
+examples/*.mp4
