@@ -9,13 +9,13 @@ ClaimVision is an enterprise-grade AI pipeline that automates vehicle damage ass
 - **Premium UI**: A sleek, glassmorphic Streamlit interface displaying original vs. annotated images, clear coverage breakdowns, and policy excerpts.
 
 ## 🎥 Demonstration Videos
-<!-- Drag and drop your MP4 files below when editing this file on GitHub.com -->
-
-- **Complex Damage Assessment (Collision + Glass Coverage)**
-  *(Drag & Drop 218.mp4 here)*
 
 - **Tire Damage Endorsement Assessment**
-  *(Drag & Drop 32.mp4 here)*
+https://github.com/user-attachments/assets/b851c058-c3fc-4638-bc92-38854ce1e2b1
+
+- **Complex Damage Assessment (Collision + Glass Coverage)**
+https://github.com/user-attachments/assets/fc683577-4a42-45d9-b503-a29a7afb1f70
+
 ## 🛠️ Technology Stack
 - **Vision**: `MMDetection`, `PyTorch`
 - **Agent/RAG**: `LangChain`, `LangGraph`, `OpenAI (GPT-4o)`
